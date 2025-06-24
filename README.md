@@ -10,4 +10,4 @@ Smart Flo which enables you to build business process around your meetings.
 ## Solutions
 
 ### SmartFlo to Microsoft Teams Integration
-[Check out this Power Platform solution](./smartflow-teams-integration/README.md), which allows integration from SmartFlo to Microsoft Teams.
+[Check out this Power Platform solution](./smartflo-teams-integration/README.md), which allows integration from SmartFlo to Microsoft Teams.
